@@ -26,5 +26,5 @@ Third-year Software Engineering student at the **University of Stirling (RAK Cam
 
 ## 📫 Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/kurt-marvic-amboy-88b54a328/))
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kurtamboy2005@gmail.com)
