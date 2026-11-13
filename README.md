@@ -54,12 +54,12 @@ A bot that sends weather notifications straight to your desktop so you never get
 </tr>
 </table>
 
-## 📊 GitHub stats
+## 📈 GitHub at a glance
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kurt-Amboy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kurt-Amboy&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+![Followers](https://img.shields.io/github/followers/Kurt-Amboy?style=for-the-badge&logo=github&color=2c5364)
+![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FKurt-Amboy&query=%24.public_repos&label=Public%20repos&style=for-the-badge&logo=github&color=2c5364)
 
 </div>
 
