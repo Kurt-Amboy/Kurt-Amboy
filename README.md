@@ -65,6 +65,6 @@ A bot that sends weather notifications straight to your desktop so you never get
 
 ## 📫 Let's connect
 
-I'm always happy to chat about projects, tech or opportunities. Reach me on [LinkedIn]([https://linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/kurt-marvic-amboy-88b54a328/)) or by [email](mailto:kurtamboy2005@gmail.com).
+I'm always happy to chat about projects, tech or opportunities. Reach me on [LinkedIn](https://linkedin.com/in/YOUR-HANDLE) or by [email](mailto:YOUR-EMAIL).
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2c5364&height=90&section=footer" width="100%" alt=""/>
