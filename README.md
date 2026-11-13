@@ -7,8 +7,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C9CDB&center=true&vCenter=true&width=560&lines=Building+simulations+and+automation+in+Python;Crafting+interactive+websites+with+JS+and+Bootstrap;Third-year+SE+student+at+Stirling+RAK+Campus)](https://github.com/Kurt-Amboy)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Kurt-Amboy&label=Profile+views&color=2c5364&style=flat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kurt-marvic-amboy-88b54a328/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kurtamboy2005@gmail.com)
 
 </div>
 
@@ -65,6 +65,6 @@ A bot that sends weather notifications straight to your desktop so you never get
 
 ## 📫 Let's connect
 
-I'm always happy to chat about projects, tech or opportunities. Reach me on [LinkedIn]([https://linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/kurt-marvic-amboy-88b54a328/)) or by [email](mailto:kurtamboy2005@gmail.com).
+I'm always happy to chat about projects, tech or opportunities. Reach me on [LinkedIn](https://www.linkedin.com/in/kurt-marvic-amboy-88b54a328/) or by [email](mailto:kurtamboy2005@gmail.com).
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2c5364&height=90&section=footer" width="100%" alt=""/>
